@@ -22,8 +22,8 @@ map.on('load', () => {
     type: 'circle', // Options: 'circle', 'line', 'fill'
     source: 'mongoLayer',
     paint: {
-      'circle-radius': 5,
-      'circle-color': '#007cbf'
+      'circle-radius': 6,
+      'circle-color': '#efefef'
     }
   });
 });
